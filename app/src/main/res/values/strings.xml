@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleSignIn</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="id">Id</string>
+    <string name="signout">SignOut</string>
+</resources>
